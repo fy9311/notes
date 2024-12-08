@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-网络/HTTP.md",
+                "file": "1-HTML/如何理解HyperText.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP"
+              "title": "如何理解HyperText"
             }
           }
         ]
@@ -43,7 +43,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-网络/HTTP.md",
+                "file": "2-CSS/弹性盒子.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HTTP"
+              "title": "Backlinks for 弹性盒子"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-网络/HTTP.md",
+                "file": "2-CSS/弹性盒子.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from HTTP"
+              "title": "Outgoing links from 弹性盒子"
             }
           },
           {
@@ -139,34 +139,45 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-网络/HTTP.md"
+                "file": "1-HTML/如何理解HyperText.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of HTTP"
+              "title": "如何理解HyperText 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
   "active": "f599bc5f294e64f6",
   "lastOpenFiles": [
+    "assets/0A67EA09.png",
+    "assets/0A67E100.png",
+    "assets",
+    "1-HTML/如何理解Markup.md",
+    "1-HTML/如何理解HyperText.md",
+    "1-HTML/语义化.md",
+    "1-HTML/元素.md",
+    "2-CSS/弹性盒子.md",
+    "2-CSS/响应式.md",
+    "2-CSS/Flex.md",
+    "2-CSS/Grid.md",
+    "5-网络/HTTP.md",
     "5-网络/HTTP缓存.md",
     "5-网络/HTTP响应状态码.md",
-    "5-网络/HTTP.md",
     "5-网络"
   ]
 }
