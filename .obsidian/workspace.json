@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-HTML/如何理解HyperText.md",
+                "file": "6-浏览器/回流和重绘.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "如何理解HyperText"
+              "title": "回流和重绘"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-HTML/如何理解HyperText.md"
+                "file": "6-浏览器/回流和重绘.md"
               },
               "icon": "lucide-list",
-              "title": "如何理解HyperText 的大纲"
+              "title": "回流和重绘 的大纲"
             }
           }
         ],
@@ -164,14 +164,19 @@
   },
   "active": "f599bc5f294e64f6",
   "lastOpenFiles": [
+    "2-CSS/未命名.md",
+    "6-浏览器/回流和重绘.md",
+    "6-浏览器/渲染过程.md",
+    "2-CSS/盒模型.md",
+    "未命名.md",
+    "6-浏览器",
+    "1-HTML/如何理解HyperText.md",
     "assets/0A67EA09.png",
     "assets/0A67E100.png",
     "assets",
     "1-HTML/如何理解Markup.md",
-    "1-HTML/如何理解HyperText.md",
     "1-HTML/语义化.md",
     "1-HTML/元素.md",
-    "2-CSS/弹性盒子.md",
     "2-CSS/响应式.md",
     "2-CSS/Flex.md",
     "2-CSS/Grid.md",
